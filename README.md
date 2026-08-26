@@ -9,7 +9,7 @@ A modern, responsive, and fully interactive personal portfolio website showcasin
 
 ---
 
-## 🌐 Live Preview
+## 🌐 Live Preview.
 
 > Open `index.html` directly in your browser, or run with a local server:
 ```bash
