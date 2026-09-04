@@ -1,4 +1,4 @@
-# 🚀 Mohammed Junaid Baig — Personal Portfolio Website
+# 🚀 Mohammed Junaid Baig — Personal Portfolio Website.
 
 ![Portfolio Preview](https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -9,7 +9,7 @@ A modern, responsive, and fully interactive personal portfolio website showcasin
 
 ---
 
-## 🌐 Live Preview.
+## 🌐 Live Preview
 
 > Open `index.html` directly in your browser, or run with a local server:
 ```bash
