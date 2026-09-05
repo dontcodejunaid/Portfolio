@@ -94,10 +94,10 @@ Portfolio/
 
 ## 🚀 Getting Started
 
-### Option 1: Open Directly
+### Option 1: Open Directly.
 Just double-click `index.html` — no build step needed.
 
-### Option 2: Local Server (Recommended)
+### Option 2: Local Server (Recommended).
 ```bash
 # Using Node.js http-server
 npx http-server -p 3000
@@ -106,7 +106,7 @@ npx http-server -p 3000
 python -m http.server 3000
 ```
 
-### Option 3: GitHub Pages
+### Option 3: GitHub Pages.
 1. Go to your repo → **Settings** → **Pages**
 2. Set source to `main` branch, root `/`
 3. Save — your site will be live at `https://dontcodejunaid.github.io/Portfolio`
